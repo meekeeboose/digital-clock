@@ -9,6 +9,12 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.clock span {
-  border-radius: 10px;
+.clock {
+  justify-content: space-around;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.clock span:hover {
+  color: #0adef1;
 }
