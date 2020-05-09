@@ -1,0 +1,14 @@
+body {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #086972;
+  font-size: 4rem;
+  color: #a7ff83;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.clock span {
+  border-radius: 10px;
+}
